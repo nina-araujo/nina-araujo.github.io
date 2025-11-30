@@ -1,0 +1,32 @@
+---
+title: "Meu site com R"
+author: "Nina Araújo Montebuhuli e Ferreira"
+format: html
+editor: visual
+---
+
+# Meu Primeiro Site com R
+
+Este site foi publicado usando GitHub Pages como atividade.
+
+## Demonstração do R
+
+```{r}
+# Gráfico simples para mostrar que funciona
+plot(c(1, 2, 3, 4), c(2, 5, 3, 8), 
+     type = "o", 
+     col = "purple",
+     main = "Primeiro Gráfico no Meu Site",
+     xlab = "Eixo X", 
+     ylab = "Eixo Y")
+```
+
+***Tecnologias*** **usadas*:***
+
+ - Linguagem R
+
+ - Quarto para publicação
+
+ - GitHub Pages
+
+*Site publicado em: <https://seuusuario.github.io>*

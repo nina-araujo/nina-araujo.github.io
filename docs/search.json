@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Meu site com R",
+    "section": "",
+    "text": "Este site foi publicado usando GitHub Pages como atividade.\n\n\n\n# Gráfico simples para mostrar que funciona\nplot(c(1, 2, 3, 4), c(2, 5, 3, 8), \n     type = \"o\", \n     col = \"purple\",\n     main = \"Primeiro Gráfico no Meu Site\",\n     xlab = \"Eixo X\", \n     ylab = \"Eixo Y\")\n\n\n\n\n\n\n\n\nTecnologias usadas:\n\nLinguagem R\nQuarto para publicação\nGitHub Pages\n\nSite publicado em: https://seuusuario.github.io"
+  },
+  {
+    "objectID": "index.html#demonstração-do-r",
+    "href": "index.html#demonstração-do-r",
+    "title": "Meu site com R",
+    "section": "",
+    "text": "# Gráfico simples para mostrar que funciona\nplot(c(1, 2, 3, 4), c(2, 5, 3, 8), \n     type = \"o\", \n     col = \"purple\",\n     main = \"Primeiro Gráfico no Meu Site\",\n     xlab = \"Eixo X\", \n     ylab = \"Eixo Y\")\n\n\n\n\n\n\n\n\nTecnologias usadas:\n\nLinguagem R\nQuarto para publicação\nGitHub Pages\n\nSite publicado em: https://seuusuario.github.io"
+  }
+]
